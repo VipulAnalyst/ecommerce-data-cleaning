@@ -1,0 +1,126 @@
+Order_ID,Customer_ID,Customer_Name,City,Order_Date,Product_ID,Product_Name,Category,Quantity,Unit_Price,Discount,Payment_Method,Order_Status,Total_Amount
+ORD0001,C007,Rohan Kumar,Pune,17-04-2026,P104,Power Bank,Electronics,1.0,1299,10,Cash on Delivery,Cancelled,1169.1
+ORD0002,C005,Arjun Mehta,Mumbai,03-08-2026,P107,Desk Lamp,Home & Kitchen,2.0,999,10,Debit Card,Delivered,1798.2
+ORD0003,C008,Ananya Jain,Chandigarh,01-06-2026,P105,Backpack,Bags,4.0,1499,15,Debit Card,Cancelled,5096.6
+ORD0004,C002,Priya Verma,Gurugram,11-07-2026,P108,Notebook,Stationery,4.0,199,5,Cash on Delivery,Cancelled,756.2
+ORD0005,C001,Aarav Sharma,Delhi,24-08-2026,P110,Phone Stand,Accessories,2.0,399,0,UPI,Delivered,798.0
+ORD0006,C011,,Noida,07-07-2026,P110,Phone Stand,Accessories,4.0,399,15,Cash on Delivery,Delivered,1356.6
+ORD0007,C012,Meera Joshi,Lucknow,11-05-2026,P107,Desk Lamp,Home & Kitchen,4.0,999,15,UPI,Delivered,3396.6
+ORD0008,C007,Rohan Kumar,Pune,30-03-2026,P105,Backpack,Bags,1.0,1499,10,Cash on Delivery,Delivered,1349.1
+ORD0009,C010,Isha Malhotra,Gurugram,02-04-2026,P109,Headphones,Electronics,2.0,1799,0,Debit Card,Pending,3598.0
+ORD0010,C007,Rohan Kumar,Pune,25-07-2026,P108,Notebook,Stationery,3.0,199,10,UPI,Pending,537.3
+ORD0011,C002,Priya Verma,Gurugram,23-02-2026,P108,Notebook,Stationery,4.0,199,5,Credit Card,Pending,756.2
+ORD0012,C006,Sneha Kapoor,gurugram,11-06-2026,P102,Keyboard,Electronics,2.0,899,15,Credit Card,Pending,1528.3
+ORD0013,C008,Ananya Jain,Chandigarh,09-07-2026,P107,Desk Lamp,Home & Kitchen,4.0,999,0,Cash on Delivery,Cancelled,3996.0
+ORD0014,C002,Priya Verma,Gurugram,05-08-2026,P105,Backpack,Bags,4.0,1499,5,Cash on Delivery,Pending,5696.2
+ORD0015,C012,Meera Joshi,Lucknow,06-03-2026,P109,Headphones,Electronics,1.0,1799,10,UPI,Delivered,1619.1
+ORD0016,C008,Ananya Jain,Chandigarh,04-03-2026,P101,Wireless Mouse,Electronics,4.0,599,15,Debit Card,Delivered,2036.6
+ORD0017,C001,Aarav Sharma,Delhi,18-09-2026,P108,Notebook,Stationery,3.0,199,10,Credit Card,Delivered,537.3
+ORD0018,C009,Vikas Yadav,GURUGRAM,25-09-2026,P107,Desk Lamp,Home & Kitchen,1.0,999,15,Credit Card,Delivered,849.15
+ORD0019,C007,Rohan Kumar,Pune,09-04-2026,P107,Desk Lamp,Home & Kitchen,2.0,999,15,Cash on Delivery,Delivered,1698.3
+ORD0020,C003,Rahul Singh,Noida,11-05-2026,P101,Wireless Mouse,Electronics,3.0,599,0,UPI,Cancelled,1797.0
+ORD0021,C010,Isha Malhotra,Gurugram,26-07-2026,P107,Desk Lamp,Home & Kitchen,3.0,999,5,Debit Card,Delivered,2847.15
+ORD0022,C010,Isha Malhotra,Gurugram,19-08-2026,P103,USB-C Cable,Accessories,3.0,349,15,UPI,Pending,889.95
+ORD0023,C004,Neha Gupta,Jaipur,25-08-2026,P105,Backpack,Bags,3.0,1499,10,Debit Card,Delivered,4047.3
+ORD0024,C004,Neha Gupta,Jaipur,27-03-2026,P107,Desk Lamp,electronics ,3.0,999,10,Cash on Delivery,Delivered,2697.3
+ORD0025,C010,Isha Malhotra,Gurugram,28-01-2026,P109,Headphones,Electronics,1.0,1799,5,Cash on Delivery,Pending,1709.05
+ORD0026,C004,Neha Gupta,Jaipur,19-08-2026,P110,Phone Stand,Accessories,3.0,399,15,Credit Card,Delivered,1017.45
+ORD0027,C001,Aarav Sharma,Delhi,01-05-2026,P109,Headphones,Electronics,3.0,1799,5,Cash on Delivery,Cancelled,5127.15
+ORD0028,C009,Vikas Yadav,Delhi,17-05-2026,P103,USB-C Cable,Accessories,3.0,349,5,Credit Card,Cancelled,994.65
+ORD0029,C001,Aarav Sharma,Delhi,01-06-2026,P103,USB-C Cable,Accessories,2.0,349,15,Debit Card,Delivered,593.3
+ORD0030,C006,Sneha Kapoor,Bengaluru,23-04-2026,P108,Notebook,Stationery,1.0,199,15,Credit Card,Delivered,169.15
+ORD0031,C010,Isha Malhotra,Gurugram,23-04-2026,P104,Power Bank,Electronics,4.0,1299,5,UPI,Delivered,4936.2
+ORD0032,C008,Ananya Jain,Chandigarh,02-01-2026,P101,Wireless Mouse,Electronics,3.0,599,0,upi,Pending,1797.0
+ORD0033,C006,Sneha Kapoor,Bengaluru,13-08-2026,P107,Desk Lamp,Home & Kitchen,1.0,999,15,UPI,Delivered,849.15
+ORD0034,C002,Priya Verma,Gurugram,09-06-2026,P105,Backpack,Bags,4.0,1499,5,Credit Card,Pending,5696.2
+ORD0035,C007,Rohan Kumar,Pune,12-09-2026,P108,Notebook,Stationery,3.0,199,0,Credit Card,Cancelled,597.0
+ORD0036,C004,Neha Gupta,Jaipur,28-08-2026,P102,Keyboard,Electronics,2.0,899,5,Cash on Delivery,Delivered,1708.1
+ORD0037,C009,Vikas Yadav,Delhi,16-09-2026,P106,Water Bottle,Home & Kitchen,4.0,499,0,Cash on Delivery,Pending,1996.0
+ORD0038,C011,Karan Bansal,Noida,27-05-2026,P104,Power Bank,Electronics,3.0,1299,5,Cash on Delivery,Pending,3702.15
+ORD0039,C009,Vikas Yadav,Delhi,08-02-2026,P101,Wireless Mouse,Electronics,4.0,599,15,Credit Card,delivered,2036.6
+ORD0040,C011,Karan Bansal,Noida,31-05-2026,P109,Headphones,Electronics,1.0,1799,5,Debit Card,Delivered,1709.05
+ORD0041,C003,Rahul Singh,Noida,22-04-2026,P107,Desk Lamp,Home & Kitchen,4.0,999,15,UPI,Pending,3396.6
+ORD0042,C012,Meera Joshi,Lucknow,11-09-2026,P101,Wireless Mouse,Electronics,2.0,599,0,Cash on Delivery,Cancelled,1198.0
+ORD0043,C005,Arjun Mehta,Mumbai,09-04-2026,P107,Desk Lamp,Home & Kitchen,1.0,999,0,Debit Card,Delivered,999.0
+ORD0044,C004,Neha Gupta,Jaipur,10-06-2026,P108,Notebook,Stationery,2.0,199,15,Cash on Delivery,Pending,338.3
+ORD0045,C011,Karan Bansal,Noida,14-04-2026,P101,Wireless Mouse,Electronics,,599,15,Cash on Delivery,Delivered,2036.6
+ORD0046,C009,Vikas Yadav,Delhi,13-07-2026,P103,USB-C Cable,Accessories,1.0,349,0,Credit Card,Delivered,349.0
+ORD0047,C009,Vikas Yadav,Delhi,15-05-2026,P104,Power Bank,Electronics,1.0,1299,15,Debit Card,Delivered,1104.15
+ORD0048,C001,Aarav Sharma,Delhi,22-01-2026,P103,USB-C Cable,Accessories,2.0,349,10,Credit Card,Cancelled,628.2
+ORD0049,C003,Rahul Singh,Noida,27-01-2026,P106,Water Bottle,Home & Kitchen,4.0,499,10,Credit Card,Cancelled,1796.4
+ORD0050,C001,Aarav Sharma,Delhi,27-05-2026,P101,Wireless Mouse,Electronics,1.0,599,15,Cash on Delivery,Delivered,509.15
+ORD0051,C001,Aarav Sharma,Delhi,07-06-2026,P101,Wireless Mouse,Electronics,4.0,599,15,UPI,Cancelled,2036.6
+ORD0052,C006,Sneha Kapoor,Bengaluru,06-02-2026,P103,USB-C Cable,Accessories,-2.0,349,0,Cash on Delivery,Cancelled,1396.0
+ORD0053,C001,Aarav Sharma,Delhi,07-07-2026,P105,Backpack,Bags,3.0,1499,10,UPI,Pending,4047.3
+ORD0054,C005,Arjun Mehta,Mumbai,08-05-2026,P107,Desk Lamp,Home & Kitchen,1.0,999,15,Credit Card,Delivered,849.15
+ORD0055,C010,Isha Malhotra,Gurugram,23-06-2026,P106,Water Bottle,Home & Kitchen,2.0,499,10,Cash on Delivery,Delivered,898.2
+ORD0056,C006,Sneha Kapoor,Bengaluru,04-06-2026,P107,Desk Lamp,Home & Kitchen,2.0,999,10,Credit Card,Delivered,1798.2
+ORD0057,C010,Isha Malhotra,Gurugram,03-09-2026,P101,Wireless Mouse,Electronics,4.0,599,0,Cash on Delivery,Cancelled,2396.0
+ORD0058,C010,Isha Malhotra,Gurugram,13-01-2026,P107,Desk Lamp,Home & Kitchen,2.0,999,10,Cash on Delivery,Delivered,1798.2
+ORD0059,C007,Rohan Kumar,Pune,20-01-2026,P109,Headphones,Electronics,4.0,"1,799",0,UPI,Pending,7196.0
+ORD0060,C003,Rahul Singh,Noida,03-08-2026,P107,Desk Lamp,Home & Kitchen,3.0,999,15,Debit Card,Delivered,2547.45
+ORD0061,C009,Vikas Yadav,Delhi,05-05-2026,P110,Phone Stand,Accessories,3.0,399,5,Credit Card,Delivered,1137.15
+ORD0062,C010,Isha Malhotra,Gurugram,19-06-2026,P106,Water Bottle,Home & Kitchen,1.0,499,15,Credit Card,Delivered,424.15
+ORD0063,C012,Meera Joshi,Lucknow,22-02-2026,P105,Backpack,Bags,1.0,1499,15,Cash on Delivery,Pending,1274.15
+ORD0064,C012,Meera Joshi,Lucknow,19-09-2026,P105,Backpack,Bags,3.0,1499,15,UPI,Pending,3822.45
+ORD0065,C003,Rahul Singh,Noida,24-05-2026,P107,Desk Lamp,Home & Kitchen,4.0,N/A,15,UPI,Delivered,3396.6
+ORD0066,C012,Meera Joshi,Lucknow,25-05-2026,P110,Phone Stand,Accessories,2.0,399,10,Cash on Delivery,Delivered,718.2
+ORD0067,C012,Meera Joshi,Lucknow,17-08-2026,P110,Phone Stand,Accessories,3.0,399,5,Credit Card,Cancelled,1137.15
+ORD0068,C007,Rohan Kumar,Pune,09-05-2026,P109,Headphones,Electronics,4.0,1799,0,Credit Card,Delivered,7196.0
+ORD0069,C001,Aarav Sharma,Delhi,28-04-2026,P102,Keyboard,Electronics,4.0,899,5,Cash on Delivery,Delivered,3416.2
+ORD0070,C008,Ananya Jain,Chandigarh,08-07-2026,P105,Backpack,Bags,1.0,1499,15,Debit Card,Cancelled,1274.15
+ORD0071,C006,Sneha Kapoor,Bengaluru,03-06-2026,P107,Desk Lamp,Home & Kitchen,3.0,999,110,Cash on Delivery,Delivered,2547.45
+ORD0072,C005,Arjun Mehta,Mumbai,08-08-2026,P106,Water Bottle,Home & Kitchen,1.0,499,0,UPI,Delivered,499.0
+ORD0073,C004,Neha Gupta,Jaipur,06-08-2026,P105,Backpack,Bags,4.0,1499,15,Credit Card,Cancelled,5096.6
+ORD0074,C007,Rohan Kumar,Pune,10-08-2026,P104,Power Bank,Electronics,1.0,1299,5,UPI,Delivered,1234.05
+ORD0075,C010,Isha Malhotra,Gurugram,29-06-2026,P106,Water Bottle,Home & Kitchen,1.0,499,15,Debit Card,Delivered,424.15
+ORD0076,C010,Isha Malhotra,Gurugram,14-09-2026,P103,USB-C Cable,Accessories,2.0,349,15,Cash on Delivery,Cancelled,593.3
+ORD0077,C004,Neha Gupta,Jaipur,2026/07/18,P108,Notebook,Stationery,4.0,199,10,UPI,Pending,716.4
+ORD0078,C011,Karan Bansal,Noida,27-06-2026,P104,Power Bank,Electronics,4.0,1299,15,Debit Card,Pending,4416.6
+ORD0079,C001,Aarav Sharma,Delhi,11-04-2026,P101,Wireless Mouse,Electronics,1.0,599,10,Cash on Delivery,Delivered,539.1
+ORD0080,C001,Aarav Sharma,Delhi,12-02-2026,P101,Wireless Mouse,Electronics,4.0,599,5,Cash on Delivery,Cancelled,2276.2
+ORD0081,C012,Meera Joshi,Lucknow,30-08-2026,P102,Keyboard,Electronics,1.0,899,10,Debit Card,Delivered,809.1
+ORD0082,C010,Isha Malhotra,Gurugram,31-03-2026,P108,Notebook,Stationery,1.0,199,5,Credit Card,Delivered,189.05
+ORD0083,C003,Rahul Singh,Noida,24-04-2026,P109,Headphones,Electronics,3.0,1799,15,UPI,Delivered,4587.45
+ORD0084,C008,Ananya Jain,Chandigarh,18-Aug-2026,P104,Power Bank,Electronics,1.0,1299,0,Cash on Delivery,Delivered,1299.0
+ORD0085,C005,Arjun Mehta,Mumbai,15-08-2026,P109,Headphones,Electronics,4.0,1799,15,UPI,Delivered,6116.6
+ORD0086,C004,Neha Gupta,Jaipur,06-04-2026,P102,Keyboard,Electronics,1.0,899,10,Cash on Delivery,Cancelled,809.1
+ORD0087,C012,Meera Joshi,Lucknow,05-08-2026,P101,Wireless Mouse,Electronics,3.0,599,0,Debit Card,Delivered,1797.0
+ORD0088,C001,Aarav Sharma,Delhi,05-08-2026,P101,Wireless Mouse,Electronics,2.0,599,15,Credit Card,Cancelled,1018.3
+ORD0089,C011,Karan Bansal,Noida,21-08-2026,P103,USB-C Cable,Accessories,1.0,349,15,Debit Card,Pending,296.65
+ORD0090,C009,Vikas Yadav,Delhi,11-08-2026,P107,Desk Lamp,Home & Kitchen,4.0,999,5,Cash on Delivery,Pending,3796.2
+ORD0091,C003,Rahul Singh,Noida,10-03-2026,P110,Phone Stand,Accessories,3.0,399,15,Debit Card,Pending,99999.0
+ORD0092,C009,Vikas Yadav,Delhi,22-02-2026,P104,Power Bank,Electronics,3.0,1299,0,Debit Card,Delivered,3897.0
+ORD0093,C007,Rohan Kumar,Pune,11-08-2026,P105,Backpack,Bags,2.0,1499,5,Credit Card,Cancelled,2848.1
+ORD0094,C003,Rahul Singh,Noida,26-05-2026,P107,Desk Lamp,Home & Kitchen,1.0,999,10,Debit Card,Pending,899.1
+ORD0095,C009,Vikas Yadav,Delhi,10-09-2026,P110,Phone Stand,Accessories,2.0,399,15,Credit Card,Cancelled,678.3
+ORD0096,C008,Ananya Jain,Chandigarh,02-05-2026,P110,Phone Stand,Accessories,1.0,399,5,Credit Card,Cancelled,379.05
+ORD0097,,Arjun Mehta,Mumbai,25-05-2026,P106,Water Bottle,Home & Kitchen,3.0,499,15,Debit Card,Delivered,1272.45
+ORD0098,C004,Neha Gupta,Jaipur,01-07-2026,P104,Power Bank,Electronics,2.0,1299,15,Debit Card,Delivered,2208.3
+ORD0099,C010,Isha Malhotra,Gurugram,06-05-2026,P110,Phone Stand,Accessories,3.0,399,10,Debit Card,Cancelled,1077.3
+ORD0100,C002,Priya Verma,Gurugram,01-01-2026,P110,Phone Stand,Accessories,4.0,399,15,Debit Card,Cancelled,1356.6
+ORD0101,C012,Meera Joshi,Lucknow,27-04-2026,P109,Headphones,Electronics,3.0,1799,15,Credit Card,Delivered,4587.45
+ORD0102,C012,Meera Joshi,Lucknow,01-08-2026,P105,Backpack,Bags,4.0,1499,5,Debit Card,Pending,5696.2
+ORD0103,C005,Arjun Mehta,Mumbai,20-01-2026,P104,Power Bank,Electronics,3.0,1299,10,UPI,Delivered,3507.3
+ORD0104,C009,Vikas Yadav,Delhi,01-01-2026,P101, Wireless Mouse ,Electronics,2.0,599,10,UPI,Delivered,1078.2
+ORD0105,C007,Rohan Kumar,Pune,12-08-2026,P109,Headphones,Electronics,3.0,1799,15,Cash on Delivery,Pending,4587.45
+ORD0106,C008,Ananya Jain,Chandigarh,13-06-2026,P105,Backpack,Bags,4.0,1499,5,Credit Card,Delivered,5696.2
+ORD0107,C012,Meera Joshi,Lucknow,10-02-2026,P102,Keyboard,Electronics,4.0,899,15,Cash on Delivery,Delivered,3056.6
+ORD0108,C006,Sneha Kapoor,Bengaluru,31-07-2026,P101,Wireless Mouse,Electronics,1.0,599,0,UPI,Pending,599.0
+ORD0109,C003,Rahul Singh,Noida,13-09-2026,P106,Water Bottle,Home & Kitchen,2.0,499,10,UPI,Delivered,898.2
+ORD0110,C002,Priya Verma,Gurugram,30-08-2026,P110,Phone Stand,Accessories,4.0,399,5,Credit card,Cancelled,1516.2
+ORD0111,C005,Arjun Mehta,Mumbai,06-03-2026,P107,Desk Lamp,Home & Kitchen,4.0,999,0,Credit Card,Delivered,3996.0
+ORD0112,C011,Karan Bansal,Noida,05-08-2026,P105,Backpack,Bags,2.0,1499,10,Credit Card,Delivered,2698.2
+ORD0113,C011,Karan Bansal,Noida,08-04-2026,P101,Wireless Mouse,Electronics,1.0,599,0,UPI,Delivered,599.0
+ORD0114,C001,Aarav Sharma,Delhi,06-01-2026,P105,Backpack,Bags,4.0,1499,10,Cash on Delivery,Delivered,5396.4
+ORD0115,C005,Arjun Mehta,Mumbai,23-01-2026,P105,Backpack,Bags,2.0,1499,10,UPI,Cancelled,2698.2
+,C005,Arjun Mehta,Mumbai,25-05-2026,P110,Phone Stand,Accessories,2.0,399,10,UPI,Delivered,718.2
+ORD0117,C001,Aarav Sharma,Delhi,17-09-2026,P103,USB-C Cable,Accessories,1.0,349,0,Credit Card,Delivered,349.0
+ORD0118,C001,Aarav Sharma,Delhi,05-04-2026,P108,Notebook,Stationery,4.0,199,5,Cash on Delivery,Delivered,756.2
+ORD0119,C010,Isha Malhotra,Gurugram,16-09-2026,P102,Keyboard,Electronics,2.0,899,5,Debit Card,Delivered,1708.1
+ORD0120,C012,Meera Joshi,Lucknow,10-08-2026,P101,Wireless Mouse,Electronics,2.0,599,15,Debit Card,Delivered,1018.3
+ORD0009,C010,Isha Malhotra,Gurugram,02-04-2026,P109,Headphones,Electronics,2.0,1799,0,Debit Card,Pending,3598.0
+ORD0028,C009,Vikas Yadav,Delhi,17-05-2026,P103,USB-C Cable,Accessories,3.0,349,5,Credit Card,Cancelled,994.65
+ORD0073,C004,Neha Gupta,Jaipur,06-08-2026,P105,Backpack,Bags,4.0,1499,15,Credit Card,Cancelled,5096.6
+ORD0102,C012,Meera Joshi,Lucknow,01-08-2026,P105,Backpack,Bags,4.0,1499,5,Debit Card,Pending,5696.2
+ORD0004,C002,Priya Verma,Gurugram,11-07-2026,P108,Notebook,Stationery,4.0,199,5,Cash on Delivery,Cancelled,756.2
