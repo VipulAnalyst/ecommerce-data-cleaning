@@ -1,4 +1,4 @@
-#SWYNEX ecommerce-data-cleaning
+# SWYNEX: E-commerce Data Cleaning
 Cleaning a raw e-commerce orders dataset (14 columns) using Python and pandas.
 
 ## Files
@@ -7,15 +7,14 @@ Cleaning a raw e-commerce orders dataset (14 columns) using Python and pandas.
 - cleaned_data.csv: final cleaned dataset
 
 ## Dataset source
-[Where you got the dataset, e.g. Kaggle link or "public practice dataset"]
+Public practice dataset
 
 ## Issues found and changes made
-1. *Missing values:* [which columns had missing values and how you handled them, e.g. filled or dropped]
-2. *Invalid dates:* 2 rows had Order_Date values that could not be parsed, so I dropped them.
-3. *Duplicates:* checked for duplicate records. Remaining duplicates after cleaning: 0.
-4. *Data types:* [e.g. converted Order_Date to datetime, Quantity to integer]
-5. *Inconsistent values:* [e.g. standardised text in City, Category or Payment_Method]
-6. *Total_Amount check:* I recomputed the total from the other columns and found 3 mismatches with Total_Amount. I left these unchanged and documented them here.
+1. *Missing/invalid dates:* 2 rows had a missing or invalid Order_Date. I dropped them because an order without a valid date can't be used for analysis.
+2. *Duplicates:* checked for duplicate records. Remaining duplicates after cleaning: 0.
+3. *Data types:* converted Order_Date to datetime and Quantity to integer.
+4. *Inconsistent values:* standardised text in City, Category and Payment_Method.
+5. *Total_Amount check:* I recomputed the total from the other columns and found 3 mismatches with Total_Amount. I left these unchanged and documented them here.
 
 ## Tools
-Python, pandas, Jupyter Notebook (VS Code
+Python, pandas, Jupyter Notebook (VS Code)
