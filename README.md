@@ -1,20 +1,51 @@
-# SWYNEX: E-commerce Data Cleaning
-Cleaning a raw e-commerce orders dataset (14 columns) using Python and pandas.
+# E-commerce Data Cleaning with Python & Pandas
 
-## Files
-- ecommerce_dirty_raw_dataset.csv: original raw data
-- data_cleaning.ipynb: cleaning code
-- cleaned_data.csv: final cleaned dataset
+A practical data-cleaning project focused on preparing a raw e-commerce orders dataset for analysis using **Python**, **pandas**, and **Jupyter Notebook**.
 
-## Dataset source
-Public practice dataset
+## Project Objective
 
-## Issues found and changes made
-1. *Missing/invalid dates:* 2 rows had a missing or invalid Order_Date. I dropped them because an order without a valid date can't be used for analysis.
-2. *Duplicates:* checked for duplicate records. Remaining duplicates after cleaning: 0.
-3. *Data types:* converted Order_Date to datetime and Quantity to integer.
-4. *Inconsistent values:* standardised text in City, Category and Payment_Method.
-5. *Total_Amount check:* I recomputed the total from the other columns and found 3 mismatches with Total_Amount. I left these unchanged and documented them here.
+The goal of this project is to identify and fix common data-quality issues so the dataset becomes more reliable and analysis-ready.
 
-## Tools
-Python, pandas, Jupyter Notebook (VS Code)
+## Data Quality Issues Handled
+
+- Missing and invalid order dates
+- Duplicate-record checks
+- Incorrect or inconsistent data types
+- Inconsistent text values in categorical columns
+- Validation of calculated order totals
+
+## Key Cleaning Steps
+
+1. Removed 2 records with missing or invalid `Order_Date` values.
+2. Checked duplicate records; final duplicate count after cleaning: **0**.
+3. Converted `Order_Date` to datetime format.
+4. Converted `Quantity` to integer format.
+5. Standardized values in `City`, `Category`, and `Payment_Method`.
+6. Recalculated order totals to validate `Total_Amount`.
+7. Identified 3 total-amount mismatches and documented them rather than silently changing the source values.
+
+## Repository Structure
+
+| File | Description |
+|---|---|
+| `ecommerce_dirty_raw_dataset.csv` | Original raw dataset |
+| `data_cleaning.ipynb` | Data-cleaning workflow and Python code |
+| `cleaned_data.csv` | Final cleaned dataset |
+| `README.md` | Project documentation |
+
+## Tools & Skills
+
+- Python
+- pandas
+- Jupyter Notebook
+- Data Cleaning
+- Data Validation
+- Exploratory Data Preparation
+
+## Dataset
+
+Public practice dataset used for learning and portfolio development.
+
+## What This Project Demonstrates
+
+This project demonstrates my ability to inspect raw data, identify quality issues, apply structured cleaning logic, validate results, and document decisions clearly — core skills in a **Data Analyst** workflow.
